@@ -1,0 +1,4 @@
+node_modules/
+_quelle/node_modules/
+_quelle/out/
+.DS_Store

@@ -1,0 +1,58 @@
+{
+  "siteUrl": "https://www.fahrzeug-pruefung-staig.de",
+  "siteName": "Fahrzeug-Prüfung Staig",
+  "pages": {
+    "/": {
+      "title": "Fahrzeugprüfung in Staig: HU, AU & Gutachten | FSP",
+      "description": "Fahrzeug-Prüfung Staig – TÜV-Rheinland-zertifizierter FSP-Prüfstützpunkt. Hauptuntersuchung, Änderungsabnahme, Oldtimergutachten & Gasprüfung. Termin online buchen.",
+      "name": "Startseite",
+      "index": true,
+      "priority": "1.0"
+    },
+    "/termin-vereinbaren": {
+      "title": "Termin online vereinbaren | Fahrzeug-Prüfung Staig",
+      "description": "Termin für HU, Änderungsabnahme, Oldtimergutachten oder Gasprüfung in Staig online anfragen – Fahrzeugkategorie, Dienst und Wunschzeit in wenigen Schritten wählen.",
+      "name": "Termin vereinbaren",
+      "index": true,
+      "priority": "0.9"
+    },
+    "/preise": {
+      "title": "Preise für HU, AU & Gutachten | Fahrzeug-Prüfung Staig",
+      "description": "Preisübersicht der Fahrzeug-Prüfung Staig: Hauptuntersuchung ab 95 €, Änderungsabnahme, Oldtimergutachten, Gasprüfung GAP/GWP, Wertgutachten und mehr.",
+      "name": "Preise",
+      "index": true,
+      "priority": "0.8"
+    },
+    "/oeffnungszeiten": {
+      "title": "Öffnungszeiten | Fahrzeug-Prüfung Staig",
+      "description": "Öffnungszeiten des FSP-Prüfstützpunkts in Staig (Gassenäcker N 8). Bitte buchen Sie Ihren Termin für HU und Gutachten vorab online.",
+      "name": "Öffnungszeiten",
+      "index": true,
+      "priority": "0.7"
+    },
+    "/ueber-uns": {
+      "title": "Über uns – FSP-Prüfstützpunkt Staig | TÜV Rheinland",
+      "description": "Sachverständige und Prüfingenieure in Staig/Steinberg: Wir prüfen Ihr Fahrzeug im Auftrag der FSP und TÜV Rheinland – von der HU bis zum Oldtimergutachten.",
+      "name": "Über uns",
+      "index": true,
+      "priority": "0.6"
+    },
+    "/kontakt": {
+      "title": "Kontakt & Anfahrt | Fahrzeug-Prüfung Staig",
+      "description": "So erreichen Sie die Fahrzeug-Prüfung Staig: Gassenäcker N 8, 89195 Staig, Telefon 07305 9357646 oder mobil 0179 5677777. Mit Anfahrtskarte.",
+      "name": "Kontakt",
+      "index": true,
+      "priority": "0.7"
+    },
+    "/impressum": {
+      "title": "Impressum | Fahrzeug-Prüfung Staig",
+      "description": "Impressum der Fahrzeug-Prüfung Staig – FSP Fahrzeug-Sicherheitsprüfung GmbH & Co. KG.",
+      "name": "Impressum",
+      "index": false
+    }
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden | Fahrzeug-Prüfung Staig",
+    "description": "Die angeforderte Seite wurde nicht gefunden."
+  }
+}
